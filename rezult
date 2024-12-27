@@ -3,11 +3,11 @@ Return-Path: <vagrant@vagrant>
 X-Original-To: root@localhost
 Delivered-To: root@localhost
 Received: by vagrant.citt.ru.local (Postfix, from userid 1000)
-        id EEFE2803A6; Fri, 27 Dec 2024 19:08:48 +0000 (UTC)
+        id EEFE2803A6; Fri, 27 Dec 2024 19:08:48 +0300 (UTC)
 Subject: NGINX Log Info
 To: <root@localhost>
 User-Agent: mail (GNU Mailutils 3.17)
-Date: Fri, 27 Dec 2024 19:08:48 +0000
+Date: Fri, 27 Dec 2024 19:08:48 +0300
 Message-Id: <20241227150848.EEFE2803A6@vagrant.citt.ru.local>
 From: vagrant <vagrant@vagrant>
 
