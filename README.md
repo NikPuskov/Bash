@@ -5,3 +5,7 @@
 Для запуска скрипта: `bash script.sh access.log` (скрипт и лог прилагаются)
 
 Результат `sudo mail` (файл rezult прилагается)
+
+Добавляем задание в Cron `crontab -e` 
+
+В открывшемся файле добавляем строку `@hourly /vagrant/script.sh`
