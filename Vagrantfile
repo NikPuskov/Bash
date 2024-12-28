@@ -15,7 +15,7 @@ Vagrant.configure("2") do |config|
   
      vb.memory = "8192"
      vb.cpus = "4"
-     vb.name = "systemd"
+     vb.name = "bash"
   end
    
   #config.vm.provision "shell", inline: <<-SHELL
